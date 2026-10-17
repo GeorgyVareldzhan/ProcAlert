@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ProcAlert
+## Notes: Сработавшие способности и доступные удары воина — иконки в центре экрана
+## Notes-ruRU: Сработавшие способности и доступные удары воина — иконки в центре экрана
+## Version: 3.7
+## SavedVariables: ProcAlertDB
+
+ProcAlert.lua
